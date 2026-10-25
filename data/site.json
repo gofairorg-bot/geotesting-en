@@ -17,10 +17,13 @@
             "placeholder_en": "e.g. Guangzhou *** Automation Co., Ltd.",
             "value": "广州潜龙科技有限公司2043",
             "images": [
-                57902,
-                57904
+                57904,
+                57902
             ],
-            "image_captions": []
+            "image_captions": {
+                "57902": "1",
+                "57904": "2"
+            }
         },
         {
             "key": "company_video",
@@ -455,7 +458,7 @@
         "custom_domain": "en.gofair.org",
         "cross_lang_link": 1
     },
-    "updated_at": "2026-10-25 20:44:14",
+    "updated_at": "2026-10-25 20:59:04",
     "_cross_lang": {
         "enabled": true,
         "alt_url": "https:\/\/cn.gofair.org\/",
