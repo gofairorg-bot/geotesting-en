@@ -1,0 +1,465 @@
+{
+    "version": "en",
+    "about": [
+        {
+            "key": "site_intro",
+            "label_zh": "本站简介",
+            "label_en": "Introduction of this site",
+            "placeholder_zh": "向你的客户简单介绍本站的用途，比如是你公司的官网或只是一个品牌知识库",
+            "placeholder_en": "Provide your clients with a brief overview of the site’s purpose—for instance, whether it serves as your company’s official website or simply as a brand knowledge base",
+            "value": "This is a site about machine"
+        },
+        {
+            "key": "company_name",
+            "label_zh": "企业名称",
+            "label_en": "Company Name",
+            "placeholder_zh": "如：广州市***自动化设备有限公司",
+            "placeholder_en": "e.g. Guangzhou *** Automation Co., Ltd.",
+            "value": "广州潜龙科技有限公司2043",
+            "images": [
+                57902,
+                57904
+            ],
+            "image_captions": []
+        },
+        {
+            "key": "company_video",
+            "label_zh": "企业宣传片",
+            "label_en": "Company Video",
+            "placeholder_zh": "给出你企业宣传片的链接（比如抖音或B站的视频链接）",
+            "placeholder_en": "Provide your company video link(uploaded to YouTube)",
+            "value": ""
+        },
+        {
+            "key": "location",
+            "label_zh": "所在国家、省份、城市",
+            "label_en": "City\/Province\/Country",
+            "placeholder_zh": "如：中国广东省广州市",
+            "placeholder_en": "e.g. Guangzhou\/Guangdong\/China",
+            "value": "中国广东广州2",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "brand_name",
+            "label_zh": "品牌名称",
+            "label_en": "Brand Name",
+            "placeholder_zh": "如：雄鹰\/Eagle（建议多介绍下品牌）",
+            "placeholder_en": "e.g. Eagle（Introduce you brand more）",
+            "value": "好兄弟",
+            "images": [
+                58048
+            ],
+            "image_captions": []
+        },
+        {
+            "key": "major_products",
+            "label_zh": "主要产品",
+            "label_en": "Major Products",
+            "placeholder_zh": "如：数控CNC设备、激光切割机、激光焊接机",
+            "placeholder_en": "e.g. CNC machines, laser cutters",
+            "value": "数控设备、激光设备、焊接设备",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "applications",
+            "label_zh": "产品应用领域",
+            "label_en": "Applications",
+            "placeholder_zh": "如：汽车零部件、消费电子、医疗器械",
+            "placeholder_en": "e.g. Automotive, electronics, medical",
+            "value": "电子、汽车制造、工业制造等",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "year_established",
+            "label_zh": "成立时间",
+            "label_en": "Year Established",
+            "placeholder_zh": "如：2001年（可写具体日期）",
+            "placeholder_en": "e.g. 2001",
+            "value": "2001",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "company_history",
+            "label_zh": "发展历程",
+            "label_en": "Company History",
+            "placeholder_zh": "如：2001年成立专注CNC…",
+            "placeholder_en": "e.g. Founded in 2001 focusing on CNC…",
+            "value": "一路发展",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "employees",
+            "label_zh": "人数",
+            "label_en": "Number of employees",
+            "placeholder_zh": "如：截至2026年8月，员工159人",
+            "placeholder_en": "e.g. 159 employees as of 2026",
+            "value": "169人",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "site_area",
+            "label_zh": "占地面积",
+            "label_en": "Site Area",
+            "placeholder_zh": "如：3200平方米厂房+290平方米办公",
+            "placeholder_en": "e.g. 3200㎡ factory + 290㎡ office",
+            "value": "3500平米",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "annual_turnover",
+            "label_zh": "年营业额",
+            "label_en": "Annual Turnover",
+            "placeholder_zh": "如：2025年约1.3亿元人民币",
+            "placeholder_en": "e.g. ~130M RMB in 2025",
+            "value": "1.6亿人民币",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "sales_area",
+            "label_zh": "销售区域",
+            "label_en": "Target Sales Area",
+            "placeholder_zh": "如：国内华南、华东；出口东南亚、欧洲",
+            "placeholder_en": "e.g. South\/East China; SE Asia, Europe",
+            "value": "全国各地",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "advantages",
+            "label_zh": "企业或产品优势",
+            "label_en": "Enterprise or Product Advantages",
+            "placeholder_zh": "如：深耕行业10年，核心部件自研",
+            "placeholder_en": "e.g. 10 years focus, in-house core parts",
+            "value": "性价比高",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "founder",
+            "label_zh": "创始人简介",
+            "label_en": "Founder's Profile",
+            "placeholder_zh": "如：张三，工程师背景…",
+            "placeholder_en": "e.g. Founder background…",
+            "value": "李经理...",
+            "images": [
+                58049
+            ],
+            "image_captions": []
+        },
+        {
+            "key": "certifications",
+            "label_zh": "资质证书名称",
+            "label_en": "Certifications",
+            "placeholder_zh": "如：ISO9001 \/ FDA \/ ROHS",
+            "placeholder_en": "e.g. ISO9001 \/ FDA \/ ROHS",
+            "value": "ISO9001",
+            "images": [
+                58050,
+                58051
+            ],
+            "image_captions": []
+        },
+        {
+            "key": "business_reg",
+            "label_zh": "工商注册信息",
+            "label_en": "Business Registration Information",
+            "placeholder_zh": "如：可填企查查等链接",
+            "placeholder_en": "e.g. registration link",
+            "value": "https:\/\/aiqicha.baidu.com\/company_detail_32615183300311",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "key": "additional",
+            "label_zh": "其他补充介绍",
+            "label_en": "Additional Information",
+            "placeholder_zh": "其他想让客户或AI知道的信息",
+            "placeholder_en": "Other information for customers \/ AI",
+            "value": "在充满竞争的自动化领域中，我司依托实惠的价格、优秀的品质、完善的售后服务，享有良好的声誉。\n我们热忱欢迎国内外客商来访洽谈打样。我公司另有一个子品牌“鸽子”，针对小微企业，具有较好的价格优势。",
+            "images": [
+                57902
+            ],
+            "image_captions": []
+        }
+    ],
+    "contact": [
+        {
+            "label_zh": "官网网址",
+            "label_en": "Website",
+            "value": "https:\/\/geogofair.com",
+            "placeholder_zh": "https:\/\/www.example.com（有官网请填写）",
+            "placeholder_en": "",
+            "images": [
+                58049
+            ],
+            "image_captions": []
+        },
+        {
+            "label_zh": "联系人",
+            "label_en": "Contact Person",
+            "value": "李经理",
+            "placeholder_zh": "如：张经理",
+            "placeholder_en": "",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "label_zh": "地址",
+            "label_en": "Address",
+            "value": "广州市天河区沙太南路85号金企商务中心66号厂房",
+            "placeholder_zh": "详细地址",
+            "placeholder_en": "",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "label_zh": "电话",
+            "label_en": "Telephone",
+            "value": "020-8069****",
+            "placeholder_zh": "如：020-8069****",
+            "placeholder_en": "",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "label_zh": "手机",
+            "label_en": "Mobile Phone",
+            "value": "1352963****",
+            "placeholder_zh": "如：135****1234",
+            "placeholder_en": "",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "label_zh": "微信号",
+            "label_en": "Wechat",
+            "value": "paygofair2",
+            "placeholder_zh": "微信号或上传二维码",
+            "placeholder_en": "",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "label_zh": "邮箱",
+            "label_en": "E-mail",
+            "value": "gofair@qq.com",
+            "placeholder_zh": "如：sales@example.com",
+            "placeholder_en": "",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "label_zh": "Whatsapp",
+            "label_en": "New Item",
+            "value": "86-1352963****",
+            "placeholder_zh": "",
+            "placeholder_en": "",
+            "images": [],
+            "image_captions": []
+        }
+    ],
+    "platforms": [
+        {
+            "key": 1688,
+            "label_zh": "1688",
+            "label_en": "1688",
+            "url": "https:\/\/1688.com\/ddd",
+            "placeholder_zh": "店铺链接",
+            "placeholder_en": "Shop URL"
+        },
+        {
+            "key": "taobao",
+            "label_zh": "淘宝",
+            "label_en": "Taobao",
+            "url": "https:\/\/taobao.com\/ddd",
+            "placeholder_zh": "店铺链接",
+            "placeholder_en": "Shop URL"
+        },
+        {
+            "key": "douyin",
+            "label_zh": "抖音",
+            "label_en": "Douyin",
+            "url": "https:\/\/douyin.com\/ddd",
+            "placeholder_zh": "主页链接",
+            "placeholder_en": "Profile URL"
+        },
+        {
+            "key": "toutiao",
+            "label_zh": "今日头条",
+            "label_en": "Toutiao",
+            "url": "https:\/\/toutiao.com\/ddd",
+            "placeholder_zh": "主页链接",
+            "placeholder_en": "Profile URL"
+        },
+        {
+            "key": "zhihu",
+            "label_zh": "知乎",
+            "label_en": "Zhihu",
+            "url": "https:\/\/zhihu.com\/ddd",
+            "placeholder_zh": "主页链接",
+            "placeholder_en": "Profile URL"
+        },
+        {
+            "key": "baijiahao",
+            "label_zh": "百家号",
+            "label_en": "Baijiahao",
+            "url": "https:\/\/baijiahao.com\/ddd",
+            "placeholder_zh": "主页链接",
+            "placeholder_en": "Profile URL"
+        }
+    ],
+    "product_categories": [
+        {
+            "id": "c1791850272256_1156",
+            "name_zh": "清洗机",
+            "name_en": "Peeling Machine",
+            "children": [
+                {
+                    "id": "c1791850280409_8924",
+                    "name_zh": "土豆清洗机",
+                    "name_en": "Potato Peeling Machine"
+                },
+                {
+                    "id": "c1791850291890_5656",
+                    "name_zh": "胡萝卜清洗机",
+                    "name_en": "Carrot Peeling Machine"
+                }
+            ]
+        },
+        {
+            "id": "c1791807079228_2151",
+            "name_zh": "削皮机",
+            "name_en": "Washing Machine",
+            "children": [
+                {
+                    "id": "c1791807101027_3947",
+                    "name_zh": "胡萝卜削皮机",
+                    "name_en": "Potato Washing Machine"
+                },
+                {
+                    "id": "c1791807091036_885",
+                    "name_zh": "土豆削皮机",
+                    "name_en": "Potato Washing Machine"
+                }
+            ]
+        }
+    ],
+    "products": [
+        {
+            "title": "土豆削皮机23323",
+            "content": "<p><a href=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/文字文稿11.pdf\">文字测试哈哈哈文稿11<\/a><\/p>\n<p><img class=\"alignnone size-full wp-image-58049\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/ScreenShot_2026-10-13_172813_222.jpg\" alt=\"\" width=\"365\" height=\"458\" \/><\/p>\n<p><video style=\"max-width: 100%; height: auto;\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/15046463_1920_1080_30fps.mp4\" preload=\"metadata\" controls=\"controls\"><\/video><\/p>\n<table>\n<tbody>\n<tr>\n<td width=\"189\">大丰收<\/td>\n<td width=\"189\">啥地方<\/td>\n<td width=\"189\"> <\/td>\n<\/tr>\n<tr>\n<td width=\"189\">额外恩我<\/td>\n<td width=\"189\">啥地方<\/td>\n<td width=\"189\">啥地方<\/td>\n<\/tr>\n<tr>\n<td width=\"189\">动手术<\/td>\n<td width=\"189\">实打实<\/td>\n<td width=\"189\">啥地方<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<p>土豆削皮机23323<\/p>\n<table style=\"border-collapse: collapse; width: 108.03pt;\" border=\"0\" width=\"144\" cellspacing=\"0\" cellpadding=\"0\">\n<tbody>\n<tr style=\"height: 13.50pt;\">\n<td class=\"et2\" style=\"height: 13.50pt; width: 54.00pt;\" width=\"72\" height=\"18\">人数：<\/td>\n<td class=\"et2\" style=\"width: 54.00pt;\" width=\"72\">企业图片：<\/td>\n<\/tr>\n<tr style=\"height: 13.50pt;\">\n<td class=\"et2\" style=\"height: 13.50pt;\" height=\"18\">占地面积：<\/td>\n<td class=\"et2\">资质证书图片：<\/td>\n<\/tr>\n<tr style=\"height: 13.50pt;\">\n<td class=\"et2\" style=\"height: 13.50pt;\" height=\"18\">产品应用领域：<\/td>\n<td class=\"et2\">微信二维码图片：<\/td>\n<\/tr>\n<tr style=\"height: 13.50pt;\">\n<td class=\"et2\" style=\"height: 13.50pt;\" height=\"18\">资质证书：<\/td>\n<td class=\"et2\">3. 联系方式：<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<p><img class=\"alignleft\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/kb-paste-210a52b1f3c4-3.jpg\" alt=\"\" width=\"576\" height=\"259\" \/><\/p>",
+            "category_l1": "c1791850272256_1156",
+            "category_l2": "c1791850280409_8924",
+            "category_l1_label": "Peeling Machine",
+            "category_l2_label": "Potato Peeling Machine",
+            "category_labels": [
+                "Peeling Machine",
+                "Potato Peeling Machine"
+            ],
+            "recommend": true
+        },
+        {
+            "title": "土豆削皮机999",
+            "content": "<video style=\"max-width: 100%; height: auto;\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/15046463_1920_1080_30fps-2.mp4\" preload=\"metadata\" controls=\"controls\" width=\"300\" height=\"150\"><\/video>\n\n土豆削皮机999\n\n<img src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/kb-paste-391efd091d54-3.jpg\" \/>\n\n<img class=\"alignnone size-full wp-image-57904\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/pexels-cup-of-couple-8473764.jpg\" alt=\"\" width=\"800\" height=\"533\" \/>",
+            "category_l1": "c1791850272256_1156",
+            "category_l2": "c1791850280409_8924",
+            "category_l1_label": "Peeling Machine",
+            "category_l2_label": "Potato Peeling Machine",
+            "category_labels": [
+                "Peeling Machine",
+                "Potato Peeling Machine"
+            ],
+            "recommend": true
+        },
+        {
+            "title": "666",
+            "content": "666\n\n[video width=\"1920\" height=\"1080\" mp4=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/15046463_1920_1080_30fps-2.mp4\"][\/video]\n\n<img class=\"alignnone size-full wp-image-58050\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/tuv-rheinland-gs-mark-sample-certificate-en.jpg\" alt=\"\" width=\"800\" height=\"1132\" \/>",
+            "category_l1": "c1791807079228_2151",
+            "category_l2": "c1791807091036_885",
+            "category_l1_label": "Washing Machine",
+            "category_l2_label": "Potato Washing Machine",
+            "category_labels": [
+                "Washing Machine",
+                "Potato Washing Machine"
+            ],
+            "recommend": false
+        }
+    ],
+    "faqs": [
+        {
+            "title": "很好",
+            "content": "<p>很好<\/p>\n<p><img class=\"alignnone size-full wp-image-58049\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/ScreenShot_2026-10-13_172813_222.jpg\" alt=\"\" width=\"365\" height=\"458\" \/><\/p>\n<p>[video width=\"1920\" height=\"1080\" mp4=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/15046463_1920_1080_30fps-1.mp4\"][\/video]<\/p>"
+        },
+        {
+            "title": "大苏打有何作用？",
+            "content": "是的\n\n[video width=\"1920\" height=\"1080\" mp4=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/15046463_1920_1080_30fps-2.mp4\"][\/video]\n\n都是啥地方\n\n<img src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/kb-paste-30e3527581c2-3.jpg\" \/>"
+        },
+        {
+            "title": "20261015",
+            "content": "dd\n\n都是\n\n<img src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/kb-paste-a8b3d6c759e6-3.jpg\" \/>"
+        },
+        {
+            "title": "测试20261016",
+            "content": "<p>都是<\/p>\n<p><img class=\"alignnone size-full wp-image-58049\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/ScreenShot_2026-10-13_172813_222.jpg\" alt=\"\" width=\"365\" height=\"458\" \/><\/p>\n<p>大苏打<\/p>"
+        }
+    ],
+    "cases": [
+        {
+            "title": "777777",
+            "content": "77777777777\n\n<img class=\"alignnone size-full wp-image-58049\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/ScreenShot_2026-10-13_172813_222.jpg\" alt=\"\" width=\"365\" height=\"458\" \/>\n\n[video width=\"1920\" height=\"1080\" mp4=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/15046463_1920_1080_30fps-1.mp4\"][\/video]"
+        }
+    ],
+    "news": [
+        {
+            "title": "所属的方式地方",
+            "content": "所属的方式地方\n\n所属的方式地方"
+        },
+        {
+            "title": "33",
+            "content": "<p>33<\/p>"
+        }
+    ],
+    "theme": {
+        "products_per_page": 24,
+        "articles_per_page": 24,
+        "products_per_row": 4,
+        "articles_per_row": 4,
+        "mobile_products_per_page": 12,
+        "mobile_articles_per_page": 12,
+        "mobile_products_per_row": 2,
+        "mobile_articles_per_row": 2,
+        "nav_font_size": 16,
+        "nav_gap": 40,
+        "submenu_width": 250,
+        "brand_color": "#009e8c",
+        "brand_bg": "#e0ffe2",
+        "logo_height": 80,
+        "footer_label": "企业官网",
+        "custom_css": "",
+        "custom_html_head": "",
+        "custom_html_top": "",
+        "custom_html_before_footer": "",
+        "custom_html_body_end": "",
+        "custom_js": "",
+        "style": "luxury"
+    },
+    "advanced": {
+        "custom_domain": "en.gofair.org",
+        "cross_lang_link": 1
+    },
+    "updated_at": "2026-10-25 20:44:14",
+    "_cross_lang": {
+        "enabled": true,
+        "alt_url": "https:\/\/cn.gofair.org\/",
+        "alt_lang": "zh",
+        "current_lang": "en"
+    }
+}
