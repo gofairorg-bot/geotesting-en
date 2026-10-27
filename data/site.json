@@ -399,7 +399,7 @@
     "faqs": [
         {
             "title": "很好",
-            "content": "<p>很好<\/p>\n<p><img class=\"alignnone size-full wp-image-58049\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/ScreenShot_2026-10-13_172813_222.jpg\" alt=\"\" width=\"365\" height=\"458\" \/><\/p>\n<p>[video width=\"1920\" height=\"1080\" mp4=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/15046463_1920_1080_30fps-1.mp4\"][\/video]<\/p>"
+            "content": "<p>很好<br \/><iframe src=\"https:\/\/www.youtube.com\/embed\/2-3pdb8tbrk?si=WSdWTkopyy63BUb-\" width=\"560\" height=\"315\" title=\"YouTube video player\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" referrerpolicy=\"strict-origin-when-cross-origin\"><\/iframe><\/p>\n<p><img class=\"alignnone size-full wp-image-58049\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/ScreenShot_2026-10-13_172813_222.jpg\" alt=\"\" width=\"365\" height=\"458\" \/><\/p>\n<p><video style=\"max-width: 100%; height: auto;\" src=\"https:\/\/gofairgeo.com\/wp-content\/uploads\/2026\/10\/15046463_1920_1080_30fps-1.mp4\" preload=\"metadata\" controls=\"controls\"><\/video><\/p>"
         },
         {
             "title": "大苏打有何作用？",
@@ -458,7 +458,7 @@
         "custom_domain": "en.gofair.org",
         "cross_lang_link": 1
     },
-    "updated_at": "2026-10-25 22:27:57",
+    "updated_at": "2026-10-27 16:48:49",
     "_cross_lang": {
         "enabled": true,
         "alt_url": "https:\/\/cn.gofair.org\/",
