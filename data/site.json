@@ -2,28 +2,28 @@
     "version": "en",
     "about": [
         {
+            "key": "company_name",
+            "label_zh": "企业名称",
+            "label_en": "Company Name",
+            "placeholder_zh": "如：广州市***自动化设备有限公司",
+            "placeholder_en": "e.g. Guangzhou *** Automation Co., Ltd.",
+            "value": "广州潜龙科技有限公司0956",
+            "images": [
+                57904,
+                57902
+            ],
+            "image_captions": {
+                "57902": "1",
+                "57904": "2"
+            }
+        },
+        {
             "key": "site_intro",
             "label_zh": "本站简介",
             "label_en": "Introduction of this site",
             "placeholder_zh": "向你的客户简单介绍本站的用途，比如是你公司的官网或只是一个品牌知识库",
             "placeholder_en": "Provide your clients with a brief overview of the site’s purpose—for instance, whether it serves as your company’s official website or simply as a brand knowledge base",
             "value": "This is a site about machine"
-        },
-        {
-            "key": "company_name",
-            "label_zh": "企业名称",
-            "label_en": "Company Name",
-            "placeholder_zh": "如：广州市***自动化设备有限公司",
-            "placeholder_en": "e.g. Guangzhou *** Automation Co., Ltd.",
-            "value": "广州潜龙科技有限公司2227",
-            "images": [
-                57902,
-                57904
-            ],
-            "image_captions": {
-                "57902": "1",
-                "57904": "2"
-            }
         },
         {
             "key": "company_video",
@@ -458,11 +458,12 @@
         "custom_domain": "en.gofair.org",
         "cross_lang_link": 1
     },
-    "updated_at": "2026-10-27 20:59:53",
+    "updated_at": "2026-10-31 09:57:06",
     "_cross_lang": {
         "enabled": true,
         "alt_url": "https:\/\/cn.gofair.org\/",
         "alt_lang": "zh",
         "current_lang": "en"
-    }
+    },
+    "_repo_url": "https:\/\/github.com\/gofairorg-bot\/geotesting-en"
 }
